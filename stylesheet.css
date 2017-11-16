@@ -15,7 +15,7 @@ td{
     /*border: 1px solid black;*/
 }
 
-.vertical { 
+.vertical {
 	border-left: 1px solid black;
 	border-right: 1px solid black;
 }
@@ -23,4 +23,12 @@ td{
 .horizantal {
 	border-top: 1px solid black;
 	border-bottom: 1px solid black;
+}
+
+#activePlayerDiv{
+    margin: auto;
+    margin-bottom: 30px;
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
 }
